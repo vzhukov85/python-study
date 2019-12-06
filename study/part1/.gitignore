@@ -1,0 +1,5 @@
+*.pkl
+people-file
+people-pickle
+people-shelve*
+class-shelve*
