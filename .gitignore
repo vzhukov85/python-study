@@ -1,6 +1,2 @@
 **/__pycache__
-**/*.pkl
-**/people-file
-**/people-pickle
-**/people-shelve*
 .idea
